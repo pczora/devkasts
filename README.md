@@ -1,5 +1,5 @@
 # Devkasts
-*Devkasts aims to be as complete a list of software development/architecture podcasts as possible.
+*Devkasts aims to be as complete a list of software development/architecture podcasts in German as possible.
 If you don't speak German, I fear there is nothing for you here. Entschuldigung!*
 
 * [innoQ Podcast](https://www.innoq.com/de/timeline/?type=podcast_episodes)
